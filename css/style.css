@@ -1,0 +1,68 @@
+header{
+position: absolute;
+display: flex;
+align-content: center;
+}
+.franja-celeste{
+    width: 300px;
+    height: 66.6px;
+    background-color: cornflowerblue;
+}
+.franja-blanca{
+    width: 300px;
+    height: 66.6px;
+    background-color: white;
+}
+.franja-roja{
+    width: 300px;
+    height: 66.6px;
+    background-color: red;
+}
+.franja-amarilla{
+    width: 300px;
+    height: 66.6px;
+    background-color: yellow;
+}
+.franja-verde{
+    width: 300px;
+    height: 66.6px;
+    background-color: green;
+}
+.franja-azul{
+    width: 300px;
+    height: 66.6px;
+    background-color: blue;
+}
+.franja-azul-cr{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+}
+.franja-roja-cr{
+    width: 300px;
+    height: 40px;
+    background-color: red;
+}
+.franja-blanca-cr{
+    width: 300px;
+    height: 40px;
+    background-color: white;
+}
+.argentina{
+    margin: 2px;
+}
+.bolivia{
+    margin: 2px;
+}
+.costa-rica{
+    margin: 2px;
+}
+.colombia{
+    margin: 2px;
+}
+.venezuela{
+    margin: 2px;
+}
+.honduras{
+    margin: 2px;
+}
